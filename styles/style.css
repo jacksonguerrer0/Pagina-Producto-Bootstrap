@@ -1,0 +1,59 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.pegajoso{
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 1;
+}
+
+#logoNav{
+    width: 30px;
+}
+
+
+
+
+.estrellas{
+    width: 80px;
+}
+
+.caja{
+    width: 80px;
+}
+
+.formDiv{
+    justify-content: center;
+    margin: auto;
+}
+/* 
+#video{
+    width: 300px;
+} */
+footer{
+    background-color: #0B2239;
+    color: white;
+}
+#footerCont{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    padding: 10px;
+}
+#descript{
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    width: 70%;
+    padding-left: 5px;
+}
+#iconoSocial{
+    display: flex;
+}
+.redSocial{
+    width: 40px;
+}
